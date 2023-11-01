@@ -17,6 +17,10 @@
 <hr>
 
 # VMwareWorkstation 17
+* 17.5.0
+  * https://download3.vmware.com/software/WKST-1750-WIN/VMware-workstation-full-17.5.0-22583795.exe
+  * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.5.0-22583795.exe
+  * ed2k://|file|VMware-workstation-full-17.5.0-22583795.exe|599532520|11CA98F0D616EC7BB266589FDF71F635|/
 * 17.0.2
   * https://download3.vmware.com/software/WKST-1702-WIN/VMware-workstation-full-17.0.2-21581411.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/17.0/VMware-workstation-full-17.0.2-21581411.exe
